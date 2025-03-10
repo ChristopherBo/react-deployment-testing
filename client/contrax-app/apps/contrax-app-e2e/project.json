@@ -1,0 +1,9 @@
+{
+  "name": "contrax-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/contrax-app-e2e/src",
+  "implicitDependencies": ["contrax-app"],
+  "// targets": "to see all targets run: nx show project contrax-app-e2e --web",
+  "targets": {}
+}
